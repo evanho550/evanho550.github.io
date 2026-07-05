@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My first chapter focuses on the population genomics and pangenome of Streptococcus pyogenes, a globally important bacterial pathogen. I use computational approaches to understand how genomic variation across thousands of isolates shapes the evolutionary and functional landscape of this organism."
+  },
+  {
+    "objectID": "research.html#streptococcus-pyogenes-genomics",
+    "href": "research.html#streptococcus-pyogenes-genomics",
+    "title": "Research",
+    "section": "",
+    "text": "My first chapter focuses on the population genomics and pangenome of Streptococcus pyogenes, a globally important bacterial pathogen. I use computational approaches to understand how genomic variation across thousands of isolates shapes the evolutionary and functional landscape of this organism."
+  },
+  {
+    "objectID": "research.html#pandas",
+    "href": "research.html#pandas",
+    "title": "Research",
+    "section": "PANDAS",
+    "text": "PANDAS\nMy second chapter investigates PANDAS (Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal infections), exploring the genomic and immunological links between strep infection and neuropsychiatric disease."
+  },
+  {
+    "objectID": "research.html#cancer-evolution",
+    "href": "research.html#cancer-evolution",
+    "title": "Research",
+    "section": "Cancer Evolution",
+    "text": "Cancer Evolution\nMy third chapter turns to cancer evolution, using single-cell sequencing to study how tumors evolve within individual patients over time."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m a PhD candidate in the Cornejo Lab at UC Santa Cruz, working at the intersection of microbial genomics, infectious disease, and cancer biology."
+  },
+  {
+    "objectID": "about.html#evan-ho",
+    "href": "about.html#evan-ho",
+    "title": "About",
+    "section": "",
+    "text": "I’m a PhD candidate in the Cornejo Lab at UC Santa Cruz, working at the intersection of microbial genomics, infectious disease, and cancer biology."
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\n\nEmail: evho@ucsc.edu\nGitHub: evanho550\nInstitution: University of California, Santa Cruz"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nPhD, Microbiology and Environmental Toxicology (in progress) UC Santa Cruz"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Evan Ho",
+    "section": "",
+    "text": "How does genomic variation shape disease onset and progression? I’m a PhD candidate at UC Santa Cruz in the Cornejo lab using population genomics and computational biology to answer that question, from the pangenome of bacterial pathogens to the evolutionary dynamics of cancer."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Evan Ho",
+    "section": "",
+    "text": "How does genomic variation shape disease onset and progression? I’m a PhD candidate at UC Santa Cruz in the Cornejo lab using population genomics and computational biology to answer that question, from the pangenome of bacterial pathogens to the evolutionary dynamics of cancer."
+  }
+]
