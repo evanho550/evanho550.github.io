@@ -1,0 +1,15 @@
+---
+title: "Research"
+---
+
+## Streptococcus pyogenes Genomics
+
+My first chapter focuses on the population genomics and pangenome of *Streptococcus pyogenes*, a globally important bacterial pathogen. I use computational approaches to understand how genomic variation across thousands of isolates shapes the evolutionary and functional landscape of this organism.
+
+## PANDAS
+
+My second chapter investigates PANDAS (Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal infections), exploring the genomic and immunological links between strep infection and neuropsychiatric disease.
+
+## Cancer Evolution
+
+My third chapter turns to cancer evolution, using single-cell sequencing to study how tumors evolve within individual patients over time.

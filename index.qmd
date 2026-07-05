@@ -1,0 +1,10 @@
+---
+title: "Evan Ho"
+---
+
+## About Me
+
+How does genomic variation shape disease onset and progression? I'm a PhD candidate
+at UC Santa Cruz in the Cornejo lab using population genomics and computational
+biology to answer that question, from the pangenome of bacterial pathogens to the
+evolutionary dynamics of cancer.
