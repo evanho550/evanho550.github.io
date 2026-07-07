@@ -7,5 +7,11 @@
   },
   "research.qmd": {
     "research.html": "10926f17"
+  },
+  "contact.qmd": {
+    "contact.html": "31751e31"
+  },
+  "teaching.qmd": {
+    "teaching.html": "8caf7339"
   }
 }

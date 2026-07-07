@@ -1,10 +1,22 @@
 ---
 title: "Evan Ho"
+subtitle: "PhD Candidate in Evolutionary Genomics"
+about:
+  template: trestles
+  image: selfie1.jpg
+  image-shape: rectangle
+  links:
+    - icon: envelope
+      text: evho@ucsc.edu
+      href: mailto:evho@ucsc.edu
+    - icon: github
+      text: GitHub
+      href: https://github.com/evanho550
 ---
 
 ## About Me
 
-How does genomic variation shape disease onset and progression? I'm a PhD candidate
-at UC Santa Cruz in the Cornejo lab using population genomics and computational
-biology to answer that question, from the pangenome of bacterial pathogens to the
+How does genomic variation shape disease onset and progression? I'm a PhD candidate 
+at UC Santa Cruz in the Cornejo Lab using population genomics and computational 
+biology to answer that question, from the pangenome of bacterial pathogens to the 
 evolutionary dynamics of cancer.
