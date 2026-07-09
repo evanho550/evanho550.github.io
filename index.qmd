@@ -75,6 +75,6 @@ of California set out to answer. Together we developed the Queer and Trans Field
 Safety Assessment: a structured, example-based tool designed to help field teams, 
 courses, and research labs build genuinely inclusive environments before, during, 
 and after fieldwork. I'm immensely proud to share that our preprint is now available 
-on EcoEvoRxiv, with publication forthcoming in the *Bulletin of the Ecological 
-Society of America* in 2026!
+on [EcoEvoRxiv](https://ecoevorxiv.org/repository/view/10751/), with publication 
+forthcoming in the *Bulletin of the Ecological Society of America* in 2026!
 

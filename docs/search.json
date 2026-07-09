@@ -4,7 +4,7 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Content coming soon."
+    "text": "Teaching and mentorship is a critical part of my identity. I earned my secondary teaching credential simultaneously with my bachelor’s degree through the University of California, Berkeley’s CalTeach program. In my teaching, I prioritize making science accessible and engaging, particularly for students from backgrounds that have traditionally been marginalized in STEM.\n\nCurrent Mentees\n\nSara Teitelbaum: UC Santa Cruz, Pediatric Autoimmune Neuropsychiatric Disorder associated with Streptococcal Infections (PANDAS) project\n\n\n\nPast Mentees\n\nSamantha Montanez: Fall 2024 to Summer 2025, UC Santa Cruz, Pangenomic Investigation of Streptococcus pyogenes\nHse Zar Yi: Summer 2023, NexGeneGirls, Analysis of E. coli’s resistance to Gentamicin using machine learning algorithms\nBreanna Durant: Summer 2023, NexGeneGirls, A Machine Learning Approach to Predict the Antibiotic Resistance of E. coli to Cefuroxime\nJoi Johnson: Summer 2023, NexGeneGirls, E. coli resistance to AmoxiClav using machine learning models\n\n\n\nPrevious Teaching Experiences\n\nNexGeneGirls Program: Summer 2023, San Francisco, CA\nSummer Coding Immersion Program (SCIP): Summer 2021 to 2022, San Francisco State University, San Francisco, CA\n8th Grade Science Teacher: 2017 to 2021, Willard Middle School, Berkeley, CA\nUndergraduate Instructor, DeCal Program: 2014 to 2017, University of California, Berkeley, Berkeley, CA\n\n\n\nTeaching Assistant Positions at the University of California, Santa Cruz\n\nGenetics\nPopulation Genetics\nEvolution\nEvolutionary Medicine\nEcology and Evolution"
   },
   {
     "objectID": "index.html",
@@ -67,27 +67,48 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "My first chapter focuses on the population genomics and pangenome of Streptococcus pyogenes, a globally important bacterial pathogen. I use computational approaches to understand how genomic variation across thousands of isolates shapes the evolutionary and functional landscape of this organism."
+    "text": "Currently, I am investigating the pangenome of Streptococcus pyogenes (S. pyogenes), a bacterial pathogenic species infamously known for causing strep throat in humans. I use computational and bioinformatic approaches to explore how genomic variation across over a thousand isolates shapes the evolutionary and functional landscape of this organism, with a particular focus on how that relates to its virulence capacity.\n\nFigure 1: Distribution of genes across isolates. Genes present in ≥ 99% of isolates are defined as core, ≥ 95% and &lt; 99% as soft core, ≥ 15% and &lt; 95% as shell, and &lt; 15% as cloud genes. All rights reserved; please do not reproduce or use without permission.\n\nFigure 2: Gephi visualization of significant gene associations. Nodes are genes while edges are significant associations between genes. Known virulence genes are highlighted in darker blue and their nodes made slightly larger. All rights reserved; please do not reproduce or use without permission.\n\n\n\nAfter a strep infection, some pediatric patients develop post-infection complications in the form of neuropsychiatric disorders. One of the primary motivations for the S. pyogenes pangenome investigation is to establish a genomic and immunological connection between a strep infection and Pediatric Autoimmune Neuropsychiatric Disorder Associated with Streptococcal infections (PANDAS).\nSome current gaps in knowledge are:\n\nWhat genetic factors in S. pyogenes trigger this post-infection complication?\nCan all strains of S. pyogenes trigger PANDAS, or only a subset?\nWhat are the bacterial peptides that trigger flares in patients presenting with disease?\n\nTo address these gaps in knowledge, I am analyzing antibody epitope repertoires of pediatric PANS patients with a focus on antigens found in S. pyogenes. This project will compare control to PANDAS flare cohorts to identify and validate S. pyogenes associated epitopes that are enriched during disease states\n\n\n\nAfter the S. pyogenes projects, I will be starting a new project that focuses on inferring evolutionary dynamics in somatic evolution using single-cell sequencing data. More on this coming soon!"
   },
   {
-    "objectID": "research.html#streptococcus-pyogenes-genomics",
-    "href": "research.html#streptococcus-pyogenes-genomics",
+    "objectID": "research.html#streptococcus-pyogenes-pangenome-investigation",
+    "href": "research.html#streptococcus-pyogenes-pangenome-investigation",
     "title": "Research",
     "section": "",
-    "text": "My first chapter focuses on the population genomics and pangenome of Streptococcus pyogenes, a globally important bacterial pathogen. I use computational approaches to understand how genomic variation across thousands of isolates shapes the evolutionary and functional landscape of this organism."
+    "text": "Currently, I am investigating the pangenome of Streptococcus pyogenes (S. pyogenes), a bacterial pathogenic species infamously known for causing strep throat in humans. I use computational and bioinformatic approaches to explore how genomic variation across over a thousand isolates shapes the evolutionary and functional landscape of this organism, with a particular focus on how that relates to its virulence capacity.\n\nFigure 1: Distribution of genes across isolates. Genes present in ≥ 99% of isolates are defined as core, ≥ 95% and &lt; 99% as soft core, ≥ 15% and &lt; 95% as shell, and &lt; 15% as cloud genes. All rights reserved; please do not reproduce or use without permission.\n\nFigure 2: Gephi visualization of significant gene associations. Nodes are genes while edges are significant associations between genes. Known virulence genes are highlighted in darker blue and their nodes made slightly larger. All rights reserved; please do not reproduce or use without permission."
   },
   {
-    "objectID": "research.html#pandas",
-    "href": "research.html#pandas",
+    "objectID": "research.html#pediatric-autoimmune-neuropsychiatric-disorder-associated-with-streptococcal-infections",
+    "href": "research.html#pediatric-autoimmune-neuropsychiatric-disorder-associated-with-streptococcal-infections",
     "title": "Research",
-    "section": "PANDAS",
-    "text": "PANDAS\nMy second chapter investigates PANDAS (Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal infections), exploring the genomic and immunological links between strep infection and neuropsychiatric disease."
+    "section": "",
+    "text": "After a strep infection, some pediatric patients develop post-infection complications in the form of neuropsychiatric disorders. One of the primary motivations for the S. pyogenes pangenome investigation is to establish a genomic and immunological connection between a strep infection and Pediatric Autoimmune Neuropsychiatric Disorder Associated with Streptococcal infections (PANDAS).\nSome current gaps in knowledge are:\n\nWhat genetic factors in S. pyogenes trigger this post-infection complication?\nCan all strains of S. pyogenes trigger PANDAS, or only a subset?\nWhat are the bacterial peptides that trigger flares in patients presenting with disease?\n\nTo address these gaps in knowledge, I am analyzing antibody epitope repertoires of pediatric PANS patients with a focus on antigens found in S. pyogenes. This project will compare control to PANDAS flare cohorts to identify and validate S. pyogenes associated epitopes that are enriched during disease states"
   },
   {
-    "objectID": "research.html#cancer-evolution",
-    "href": "research.html#cancer-evolution",
+    "objectID": "research.html#within-patient-cancer-evolution",
+    "href": "research.html#within-patient-cancer-evolution",
     "title": "Research",
-    "section": "Cancer Evolution",
-    "text": "Cancer Evolution\nMy third chapter turns to cancer evolution, using single-cell sequencing to study how tumors evolve within individual patients over time."
+    "section": "",
+    "text": "After the S. pyogenes projects, I will be starting a new project that focuses on inferring evolutionary dynamics in somatic evolution using single-cell sequencing data. More on this coming soon!"
+  },
+  {
+    "objectID": "research.html#forensic-genetics",
+    "href": "research.html#forensic-genetics",
+    "title": "Research",
+    "section": "Forensic Genetics",
+    "text": "Forensic Genetics\n\nIs a DNA forensic technique less accurate for some human population groups? During my Master’s at San Francisco State University, I investigated the accuracy of DNA mixture analysis using Forensim, a free and open source R package, to simulate and evaluate DNA mixtures based on allele frequency distributions from diverse groups. Using this approach, our group (led by Dr. Rori Rohlfs) quantified the accuracy, including both false positive rate and power, of DNA mixture analysis across human genetic groups, including cases involving mis-specified reference groups. Check out our paper here."
+  },
+  {
+    "objectID": "research.html#within-patient-viral-evolution",
+    "href": "research.html#within-patient-viral-evolution",
+    "title": "Research",
+    "section": "Within-patient Viral Evolution",
+    "text": "Within-patient Viral Evolution\n\nHow does HIV evolve within and across patients? Also during my Master’s, I joined Dr. Pleuni Pennings’ lab and worked closely with Dr. Sarah Renee Phillips to investigate how a specific gene in HIV was evolving within patients. We analyzed how the gene accumulated mutations over time and tracked various mutation types, such as transition versus transversion rates, CpG sites, and synonymous versus nonsynonymous mutations, among others. This project motivated me to pursue research in disease evolution through the analysis of genomic data!"
+  },
+  {
+    "objectID": "research.html#protecting-queer-and-trans-field-scientists",
+    "href": "research.html#protecting-queer-and-trans-field-scientists",
+    "title": "Research",
+    "section": "Protecting Queer and Trans Field Scientists",
+    "text": "Protecting Queer and Trans Field Scientists\nWhat stands between best practices for LGBTQIA+ field safety and their actual implementation? That’s the question a team of 15 researchers across the University of California set out to answer. Together we developed the Queer and Trans Field Safety Assessment: a structured, example-based tool designed to help field teams, courses, and research labs build genuinely inclusive environments before, during, and after fieldwork. I’m immensely proud to share that our preprint is now available on EcoEvoRxiv, with publication forthcoming in the Bulletin of the Ecological Society of America in 2026!"
   }
 ]
